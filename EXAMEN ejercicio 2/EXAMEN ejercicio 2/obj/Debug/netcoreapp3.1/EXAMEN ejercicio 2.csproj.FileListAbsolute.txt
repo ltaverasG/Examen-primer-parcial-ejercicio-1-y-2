@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.exe
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.deps.json
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.dll
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\bin\Debug\netcoreapp3.1\EXAMEN ejercicio 2.pdb
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.dll
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.pdb
+C:\Users\Joseluis\Documents\C#\Examen primer parcial ejercicio 1 y 2\EXAMEN ejercicio 2\EXAMEN ejercicio 2\obj\Debug\netcoreapp3.1\EXAMEN ejercicio 2.genruntimeconfig.cache
